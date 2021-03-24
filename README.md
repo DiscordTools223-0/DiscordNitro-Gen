@@ -1,5 +1,5 @@
 [![HitCount](http://hits.dwyl.com/DiscordTools223-0/DiscordNitro-Gen.svg)](http://hits.dwyl.com/DiscordTools223-0/DiscordNitro-Gen)
-![GitHub repo size](https://img.shields.io/github/repo-size/DiscordTools223-0/DiscordNitro-Gen?color=FFFFF)
+![GitHub repo size](https://img.shields.io/github/repo-size/DiscordTools223-0/DiscordNitro-Gen?color=FFFF)
 # Discord_Nitro-Gen
 
 
