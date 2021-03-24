@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/%7BDiscordTools223-0
+[![HitCount](http://hits.dwyl.com/%7Busername
 /%7D/%7Bproject%7D.svg)](http://hits.dwyl.com/%7Busername%7D/%7Bproject%7D)
 # Discord_Nitro-Gen
 
