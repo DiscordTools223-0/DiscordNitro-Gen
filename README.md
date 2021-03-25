@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDiscordTools223-0%2FDiscordNitro-Gen&count_bg=%236EFF00&title_bg=%23000000&icon=coursera.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://hits.seeyoufarm.com)![GitHub repo size](https://img.shields.io/github/repo-size/DiscordTools223-0/DiscordNitro-Gen?color=FFFF)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDiscordTools223-0%2FDiscordNitro-Gen&count_bg=%236EFF00&title_bg=%23000000&icon=coursera.svg&icon_color=%23FFFFFF&title=Downloads&edge_flat=false)](https://hits.seeyoufarm.com)![GitHub repo size](https://img.shields.io/github/repo-size/DiscordTools223-0/DiscordNitro-Gen?color=FFFF)
 
 [![DiscordTools223-0 - DiscordNitro-Gen](https://img.shields.io/static/v1?label=DiscordTools223-0&message=DiscordNitro-Gen&color=blue&logo=github)](https://github.com/DiscordTools223-0/DiscordNitro-Gen)
 [![stars - DiscordNitro-Gen](https://img.shields.io/github/stars/DiscordTools223-0/DiscordNitro-Gen?style=social)](https://github.com/DiscordTools223-0/DiscordNitro-Gen)
