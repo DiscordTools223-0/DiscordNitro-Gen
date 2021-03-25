@@ -13,6 +13,6 @@
 # How to use
 **Follow the Directions Inside the command Prompt On how to use it
 
-# ![Releases]Releases
+# Releases
 
-***Look at Realeases
+***Look at Realeases***
